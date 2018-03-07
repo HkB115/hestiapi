@@ -1,4 +1,4 @@
-# HestiaPi Touch HVAC
+# OpenHAB2 files for HestiaPi Touch HVAC model
 
 This code was not originally developed by me. It was originally provided open-source.
 
